@@ -1,21 +1,21 @@
-**🌟 Welcome to Blogosphere! 🌟**
+**🌟 Welcome to MyCircleX! 🌟**
 
-Blogosphere is a sleek ASP.NET Core application powered by .NET 8 minimal API. It leverages GraphQL to seamlessly manage posts, offering an efficient and modern approach to blogging.
+MyCircleX is a sleek ASP.NET Core application powered by .NET 8 minimal API. It leverages GraphQL to seamlessly manage posts, offering an efficient and modern approach to blogging & social networking.
 
-**This project contains a sample ASP.NET Core app. This app is an example of the article I produced for the Telerik Blog (telerik.com/blogs).**
+**This project contains a sample ASP.NET Core app. This app is an example of demonastraion of GraphQL.**
 
 ### Getting Started
 
-To get started with Blogosphere, follow these simple steps:
+To get started with MyCircleX, follow these simple steps:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/zangassis/blogosphere
+   git clone https://github.com/99CodeStore/MyCircleX
    ```
 
 2. **Navigate to the Project Directory:**
    ```
-   cd Blogosphere
+   cd MyCircleX
    ```
 
 3. **Build and Run the Application:**
@@ -38,7 +38,7 @@ To get started with Blogosphere, follow these simple steps:
 
 ### Contributing
 
-We welcome contributions to Blogosphere! If you have any feature suggestions, bug fixes, or improvements, feel free to open a pull request.
+We welcome contributions to MyCircleX! If you have any feature suggestions, bug fixes, or improvements, feel free to open a pull request.
 
 ### Feedback
 
@@ -48,4 +48,4 @@ We value your feedback! If you have any questions, suggestions, or concerns, ple
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Happy Blogging! 📝✨
+Happy Blogging & Social Networking! 📝✨
